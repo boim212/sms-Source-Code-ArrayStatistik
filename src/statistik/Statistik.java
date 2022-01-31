@@ -76,7 +76,7 @@ public class Statistik {
         System.out.println("");
         System.out.println("");
         System.out.println("+--------------------------------------+");
-        System.out.println("|         2020 (Java) 205314020        |");
+        System.out.println("|         2020 (Java)         |");
         System.out.println("+--------------------------------------+");
         System.out.println("");
         
